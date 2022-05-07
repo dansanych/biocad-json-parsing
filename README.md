@@ -7,7 +7,7 @@
 mvn clean install assembly:single
 ```
 
-### Запуск (Вар. 1)
+### Запуск
 ```
 java -jar biocad-json-parser.jar
 ```
